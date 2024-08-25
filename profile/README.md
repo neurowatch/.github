@@ -8,4 +8,5 @@ This consists on a surveillance camera system with a client that can run on a si
   
 * The server is implemented using Django and django-rest-framework and also features authentication, email and push notifications.
 
-* An Android client is also planned.
+* An Android client to display the clips.
+
